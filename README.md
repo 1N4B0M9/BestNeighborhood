@@ -11,6 +11,17 @@ Descriptions + Links:
   Average Traffic Count: https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh/resource/6dfd4f8f-cbf5-4917-a5eb-fd07f4403167
 
 Overview: We took three data sets, amount of fires , average daily vehicle traffic, and crime counts per neighbohoods to determine the best neighborhood in Pittsburgh, based on safety. The amount of fires and crime is overall safety but less traffic is better for children and the elderly. 
-  
-    
+
+_________
+Project Introduction: 
+  To Determine the Best Neighborhood in Pittsburgh we decided to use safety information. We thought about multiple approachs including best neighborhood for children or people without cars, based on data of schools or walkable distances. However, we decided to base our answer on safety, becuase we thought it was a universal attribute that all people looked for in neighborhoods. 
+
+The Metric: 
+  Are metric was based on the least amout of crimes, fires, and traffic in the neighborhoods. We thought that the less amount of these safety restrictures per neighborhood, the better the neighborhood is overall. We used datasets on amount of crimes per neighborhood, amount of fires per neighborhood, and the daily vehicle traffier per neighborhood. 
+
+The Best Neighborhood: 
+  Based on our metric, we have concluded that the Best Neighborhood in Pittsburgh is Mt.Oliver Nieghborhood. We think this is the best neighborhood becuase based on a combination of our three data sets, we have determine that this neighborhood overall gets the least amount of fires, crime, and daily traffic. Individual we used our codes to rank the the data sets from least to most fires, least to most amount of crime, and lest to most daily traffic. We then combined this data into one code, and combined averages of information to determine the overall best neighborhood. 
+
+Conclusion: 
+  Aisling: I feel the ...
   
