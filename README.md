@@ -1,6 +1,6 @@
 Team Name: Hillman Demons 
 ______
-Team Members: Aisling Beresford (aeb247@pitt.edu), Nathan Morelli nbm27@pitt.edu, Ragull Arumugamraa236@pitt.edu
+Team Members: Aisling Beresford (aeb247@pitt.edu), Nathan Morelli (nbm27@pitt.edu), Ragull (Arumugamraa236@pitt.edu)
 
 Descriptions + Links: 
 
@@ -23,5 +23,7 @@ The Best Neighborhood:
   Based on our metric, we have concluded that the Best Neighborhood in Pittsburgh is Mt.Oliver Nieghborhood. We think this is the best neighborhood becuase based on a combination of our three data sets, we have determine that this neighborhood overall gets the least amount of fires, crime, and daily traffic. Individual we used our codes to rank the the data sets from least to most fires, least to most amount of crime, and lest to most daily traffic. We then combined this data into one code, and combined averages of information to determine the overall best neighborhood. 
 
 Conclusion: 
-  Aisling: I feel the ...
+  Aisling: I feel the our data driven decision for the best neighborhood is the same way i would determine my favorite neighborhood. I am from Pittsburgh, and even though Mt.Oliver Neighborhood is not my favorite nieghborhood in pittsburgh, Fox Chaple is, i still think the safety aspect is very impotant and its how i will determine where i want to live in the future. 
+  Nathan: 
+  Ragull:
   
