@@ -1,4 +1,6 @@
 Team Name: Hillman Demons 
+
+Final Project Group 1
 ______
 Team Members: Aisling Beresford (aeb247@pitt.edu), Nathan Morelli (nbm27@pitt.edu), Ragull (Arumugamraa236@pitt.edu)
 
